@@ -61,8 +61,8 @@ This repository contains all the tasks I completed during my Data Analysis Inter
 - Explored correlation between votes and rating
 - Visualized Votes vs Rating
 
-#### 11. Price Range vs Services
-- Analyzed whether higher-priced restaurants are more likely to offer online delivery or table booking
+#### 11. Price Range vs Online Delivery and Table Booking
+- Analyzed whether higher-priced restaurants are more likely to offer online delivery and table booking
 - Visualized the service availability by price range
 
 ---
