@@ -77,5 +77,5 @@ This repository contains all the tasks I completed during my Data Analysis Inter
 
 ---
 
-## 📎 Dataset
+## 📊 Dataset
 The dataset used was provided by **Cognifyz Technologies** as part of the internship.
